@@ -47,7 +47,7 @@ blog.description = ""
 ## blog_timezone -- the timezone that you normally write your blog posts from
 blog.timezone = "CET"
 
-blog.posts_per_page = 5
+blog.posts_per_page = 10
 
 blog.auto_permalink.enabled = True
 
