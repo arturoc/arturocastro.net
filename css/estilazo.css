@@ -1,0 +1,35 @@
+body{font-family:verdana;}
+
+#header{background-color:#ffffff; color:#000000; border-bottom: solid 1px #cccccc; margin-left:2em; margin-right: 2em; padding-left:2em;height:4em;padding-top:1em;padding-bottom:1em;}
+#header em{color:#ff0080;}
+h1{font-size:1em;color: #666666}
+h1 a#title{font-size:1em;color: #666666}
+h2{color:#666666}
+
+
+
+#index_col_1{width:600px;padding-left:4em;padding-top:2em;float:left;}
+#index_col_2{width:45%;padding-left:4em;margin-left:50%;padding-top:4em;}
+
+#col_1{width:45%;padding-left:4em;padding-top:2em;float:left;}
+#col_2{width:45%;padding-left:4em;margin-left:50%;padding-top:4em;}
+a, a:visited{color:#666666;text-decoration:none;}
+#header a,#header a:visited{color:#333333;font-size:0.8em;padding:0.2em}
+#header a:hover{color:#ffffff;background-color:#000000;text-decoration:none;padding:0.2em}
+a.selected, #header a#selected, #header a:visited.selected{color:#ffffff;background-color:#000000;text-decoration:none;padding:0.2em}
+
+h2{font-size:1.1em; padding:-left:1em;}
+h3{font-size:0.8em; padding:-left:1em;}
+h4{font-size:0.8em; padding:-left:1em;color:#aaaaaa}
+
+h2.imgtitle{ margin-top:0.5em;}
+ul.work{padding-left:0;}
+ul.work li{list-style:none;border-bottom:0px solid #000000;margin-top:2em;padding-top:1em;width:600px;padding-left:0}
+a img{border:none;}
+img{margin-bottom:0.6em;}
+
+li{font-size:0.7em;}
+
+p{font-size:0.7em;}
+
+.twitter{float:right}
