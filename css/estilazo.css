@@ -11,7 +11,7 @@ h2{color:#666666}
 #index_col_1{width:600px;padding-left:4em;padding-top:2em;float:left;}
 #index_col_2{width:45%;padding-left:4em;margin-left:50%;padding-top:4em;}
 
-#col_1{width:45%;padding-left:4em;padding-top:2em;float:left;}
+#col_1{width:45%;padding-left:4em;padding-top:2em;float:left;margin-bottom:2em}
 #col_2{width:45%;padding-left:4em;margin-left:50%;padding-top:4em;}
 a, a:visited{color:#666666;text-decoration:none;}
 #header a,#header a:visited{color:#333333;font-size:0.8em;padding:0.2em}
@@ -33,3 +33,12 @@ li{font-size:0.7em;}
 p{font-size:0.7em;}
 
 .twitter{float:right}
+
+a.blog_link, a:visited.blog_link{font-size:0.7em;}
+.after_post a, .after_post a{font-size:0.7em;}
+.blog_post_title a{font-size:0.8em;}
+h2.blog_post_title{margin-bottom:0.1em;}
+.blog_post small{font-size:0.55em}
+.blog_post pre p{font-size:1em}
+hr.interblog{height:1px;border:none;background-color:#666666;margin-bottom:2em;}
+.blog_post{margin-bottom:4em;}

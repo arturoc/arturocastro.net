@@ -1,4 +1,5 @@
 <%inherit file="_templates/site.mako" />
+<div id="col_1">
 <p>
  This is the index page.
 </p>
@@ -11,3 +12,5 @@ Here's the last 5 posts:
     <li><a href="${post.path}">${post.title}</a></li>
 % endfor
 </ul>
+</div>
+<div id="col_2"></div>
