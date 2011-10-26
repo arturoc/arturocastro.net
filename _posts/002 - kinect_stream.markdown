@@ -39,7 +39,7 @@ The main problems we had were with cross-site security in browsers which didn't 
 
 The other problem was that theora compression (or any other video compression for that matter) is actually optimized for images not depth data so there was some really noticeable artifacts in the final point cloud. 
 
-The source code is [here](http://github.com/arturoc/kinectStream)
+The source code is [here](http://github.com/arturoc/kinectStreaming)
 
 --col2--
 
