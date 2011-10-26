@@ -43,15 +43,15 @@ The source code is [here](http://github.com/arturoc/kinectStreaming)
 
 --col2--
 
-![chris sugrue](/images/kinectStream/img2.jpg)
+![chris sugrue](/images/kinectStream/img2.jpg)<br/>
 [@chrissugrue](http://twitter.com/chrissugrue) talking about her lastest work [Base8](http://vimeo.com/30834797)
 
-![golan and kyle](/images/kinectStream/img3.jpg)
+![golan and kyle](/images/kinectStream/img3.jpg)<br/>
 [@golan](http://twitter.com/golan]) and [@kcmic](http://twitter.com/kcmic) preparing the stage
 
-![compression artifacts](/images/kinectStream/img4.jpg)
+![compression artifacts](/images/kinectStream/img4.jpg)<br/>
 Same image as above but the perspective is slightly different from that of the kinect, allowing to see the artifacts introduced by the theora compression in the depth data
 
-![first transmission](/images/kinectStream/img5.jpg)
+![first transmission](/images/kinectStream/img5.jpg)<br/>
 Raw depth image, the first data we managed to stream
 

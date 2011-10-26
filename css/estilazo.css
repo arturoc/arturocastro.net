@@ -1,18 +1,20 @@
-body{font-family:verdana;}
+body{font-family:verdana;background-color:black;}
 
-#header{background-color:#ffffff; color:#000000; border-bottom: solid 1px #cccccc; margin-left:2em; margin-right: 2em; padding-left:2em;height:4em;padding-top:1em;padding-bottom:1em;}
+#container{margin:0px auto;max-width:1280px;min-height:1000px;background-color:white;height:100%;padding-left:1em;padding-right:1em;}
+#header{background-color:#ffffff; color:#000000; border-bottom: solid 1px #cccccc; margin-left:2em; margin-right: 2em; margin:0px auto; padding-left:2em;height:4em;padding-top:1em;padding-bottom:1em;}
 #header em{color:#ff0080;}
 h1{font-size:1em;color: #666666}
 h1 a#title{font-size:1em;color: #666666}
 h2{color:#666666}
 
+div.break{width: 100%;height: 1px;margin: 0 0 -1px;clear: both;}
 
 
 #index_col_1{width:600px;padding-left:4em;padding-top:2em;float:left;}
 #index_col_2{width:45%;padding-left:4em;margin-left:50%;padding-top:4em;}
 
 #col_1{width:45%;padding-left:4em;padding-top:2em;float:left;margin-bottom:2em}
-#col_2{width:45%;padding-left:4em;margin-left:50%;padding-top:4em;}
+#col_2{width:45%;padding-left:4em;padding-top:4em;float:left;}
 a, a:visited{color:#666666;text-decoration:none;}
 #header a,#header a:visited{color:#333333;font-size:0.8em;padding:0.2em}
 #header a:hover{color:#ffffff;background-color:#000000;text-decoration:none;padding:0.2em}
@@ -43,3 +45,4 @@ h2.blog_post_title{margin-bottom:0.1em;}
 hr.interblog{height:1px;border:none;background-color:#666666;margin-bottom:2em;}
 .blog_post{margin-bottom:4em;}
 .pygments_murphy{background-color:#fbfbd4;padding:1em}
+img.rss{vertical-align:baseline; margin-bottom:0;}

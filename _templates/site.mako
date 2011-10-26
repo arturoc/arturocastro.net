@@ -6,10 +6,13 @@
     ${self.head()}
 </head>
 <body>
-    <div id="header"> 
-    ${self.header()}
-    </div>
-	${next.body()}
+    <div id="container">
+        <div id="header"> 
+        ${self.header()}
+        </div>
+	    ${next.body()}
+	    <div class="break" />
+	</div>
     ${self.footer()}
 </body>
 </html>

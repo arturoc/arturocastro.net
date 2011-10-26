@@ -5,5 +5,7 @@
     <em>.</em><a href="http://vimeo.com/user856298/videos">videos</a>&nbsp;&nbsp;
 	<em>.</em><a href="mailto:me@arturocastro.net">me@arturocastro.net</a>&nbsp;&nbsp;
 	<em>.</em><a href="http://twitter.com/artur0castro">@artur0castro</a>&nbsp;&nbsp;
+	<img class="rss" src="/images/rss.png"/><a href="/blog/feed/index.xml">rss</a>&nbsp;&nbsp;
+    <img class="rss" src="/images/rss.png"/><a href="/blog/feed/atom/index.xml">atom</a>&nbsp;&nbsp;
 	<!--em>.</em><a href="other.html">other</a>&nbsp;&nbsp;
 	<em>.</em><a href="resume.html">resume</a> &nbsp;&nbsp;-->
