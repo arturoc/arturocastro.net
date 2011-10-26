@@ -21,10 +21,15 @@
       <div class="post_prose">
         ${self.post_prose(post,resume)}
       </div>
+      
+    % if resume:
+        <p><a href="${post.permapath()}">more >></a></p>
+    % endif
     </div>
 % else:
     ${self.post_col2(post)}
 % endif
+
 
 <%def name="post_prose(post,resume)">
     <%
